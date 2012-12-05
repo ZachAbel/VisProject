@@ -234,7 +234,7 @@ def main():
   x = 0
   y = 0
   z = 0 
-  // POTENTIAL PROBLEM LOOP
+  # POTENTIAL PROBLEM LOOP
   while x < 16:
    while y < 16:
      
